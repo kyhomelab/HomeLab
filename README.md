@@ -13,6 +13,9 @@ Welcome to my Home Lab project, where I leverage the power of Proxmox to create 
 - <b>PNY 3060 GPU</b>
 - <b>Be Quiet! A240mm AIO</b>
 
+- <b>Cisco Business 110 Switch</b>
+- <b>Dual Gigabit LAN Network Card (added 11/30/23)</b>
+
 <h2>Software Used </h2>
 
 - <b>ProxMox</b> 
