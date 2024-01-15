@@ -62,7 +62,17 @@ Kali Linux is a specialized VM for penetration testing and ethical hacking.
 - **Forensic Analysis:** Utilize forensic tools for digital forensics and incident response.
 - **Password Cracking:** Test password strength using tools like John the Ripper and Hashcat.
 - **Network Scanning:** Conduct network reconnaissance with tools like Nmap.
-  
+
+## Tailscale
+
+Tailscale creates a secure mesh network for my devices and services
+
+### Purpose
+- Provides secure and remote access to homelab devices and services from anywhere in the world.
+- Simplifies networking and eliminates the need for manual VPN setup and configuration.
+- Offers encrypted connections and access control for enhanced security.
+
+
 ## PiHole Container
 
 The Pi-hole container serves as a network-wide ad blocker, DNS sinkhole, and DHCP server. It enhances privacy, security, and network performance by blocking unwanted ads and malicious domains at the network level.
