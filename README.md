@@ -14,6 +14,7 @@ Welcome to my Home Lab project, where I leverage the power of Proxmox to create 
 - <b>Be Quiet! A240mm AIO</b>
 
 - <b>Cisco Business 110 Switch</b>
+- <b>Cisco SG 300-28P Managed Switch (added 2/27/24)</b>
 - <b>Dual Gigabit LAN Network Card (added 11/30/23)</b>
 
 <h2>Software Used </h2>
